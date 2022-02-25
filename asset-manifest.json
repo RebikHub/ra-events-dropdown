@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-events-dropdown/static/css/main.fe492094.css",
+    "main.js": "/ra-events-dropdown/static/js/main.795f5bd5.js",
+    "index.html": "/ra-events-dropdown/index.html",
+    "main.fe492094.css.map": "/ra-events-dropdown/static/css/main.fe492094.css.map",
+    "main.795f5bd5.js.map": "/ra-events-dropdown/static/js/main.795f5bd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe492094.css",
+    "static/js/main.795f5bd5.js"
+  ]
+}
