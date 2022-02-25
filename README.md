@@ -1,4 +1,6 @@
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9pdgwyv95s7761gj/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-events-dropdown/branch/master)
+
 [Выпадающий список](https://rebikhub.github.io/ra-events-dropdown/)
 
 ===
