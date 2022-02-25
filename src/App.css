@@ -113,13 +113,16 @@ ul {
     border-bottom: 0;
 }
 
-.dropdown-wrapper .dropdown a {
-    display: block;
+.dropdown-wrapper .dropdown .change {
+    text-align: left;
+    width: 100%;
+    border: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     padding: 16px 0;
     color: inherit;
     font-size: 14px;
-    text-decoration: none;
+    background-color: inherit;
+    cursor: pointer;
 }
 
 @keyframes ripple {

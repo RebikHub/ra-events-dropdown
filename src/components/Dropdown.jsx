@@ -4,9 +4,12 @@ import DropdownButton from './DropdownButton'
 
 export default function Dropdown() {
   const [open, setOpen] = useState('');
-  const toggleOpen = () => {
-    // setOpen('')
-    console.log('hello');
+  function toggleOpen() {
+    if (open === '') {
+      setOpen('open')
+    } else {
+      setOpen('')
+    }
   }
   return (
     <div className={'dropdown-wrapper ' + open}>

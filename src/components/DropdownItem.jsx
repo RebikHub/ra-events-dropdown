@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function DropdownItem({status, text}) {
+export default function DropdownItem({change, text, onChange}) {
   return (
-    <li className={status ? 'active' : null}>
-      {text}
+    <li className={change ? 'active' : null}>
+      <button className='change' onClick={(ev) => onChange(ev)}>{text}</button>
     </li>
   )
 }
